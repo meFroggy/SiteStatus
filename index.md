@@ -1,3 +1,4 @@
 ---
-redirect_to: https://mermaids.nwstatus.com/
+redirect_to:
+  - https://mermaids.nwstatus.com/
 ---
